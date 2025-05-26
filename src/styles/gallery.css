@@ -4,7 +4,7 @@
     align-items: center;
     width: 100%;
     min-height: calc(100vh + 70px);
-    background: url('../../public/assets/images/header-page-gallery.png') no-repeat center center;
+    background: url('../../assets/images/header-page-gallery.png') no-repeat center center;
     background-size: cover;
     margin-top: 0;
 }
@@ -130,7 +130,7 @@
     align-items: center;
     width: 100%;
     min-height: calc(100vh);
-    background: url('../../public/assets/images/full-img-page-gallery.png') no-repeat center center;
+    background: url('../../assets/images/full-img-page-gallery.png') no-repeat center center;
     background-size: cover;
     filter: brightness(50%);
     margin-top: 0;
@@ -215,7 +215,7 @@
     align-items: center;
     width: 100%;
     min-height: calc(100vh);
-    background: url('../../public/assets/images/full-img-2-page-gallery.png') no-repeat center center;
+    background: url('../../assets/images/full-img-2-page-gallery.png') no-repeat center center;
     background-size: cover;
     filter: brightness(50%);
     margin-top: 0;
@@ -234,7 +234,7 @@
     align-items: center;
     width: 100%;
     min-height: calc(100vh);
-    background: url('../../public/assets/images/full-img-2-page-gallery.png') no-repeat center center;
+    background: url('../../assets/images/full-img-2-page-gallery.png') no-repeat center center;
     background-size: cover;
     filter: brightness(50%);
     margin-top: 0;
